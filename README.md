@@ -23,3 +23,5 @@ Tenho estudado constantemente e desenvolvendo meus próprios projetos para aprim
 
 📫 Vamos conversar?  
 [LinkedIn] https://linkedin.com/in/patriciagomes2025 | gsousapatricia@gmail.com
+
+![snake gif](https://github.com/gspatri/gspatri/blob/output/github-contribution-grid-snake.svg)
