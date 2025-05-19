@@ -28,4 +28,3 @@ Tenho estudado constantemente e desenvolvendo meus próprios projetos para aprim
 
 ![snake gif](https://github.com/gspatri/gspatri/blob/output/github-contribution-grid-snake.svg)
 
-
