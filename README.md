@@ -1,8 +1,7 @@
 # 👋 Olá! Sou Patricia! Seja bem-vindo(a) ao meu perfil
 
-🚀 Sou uma profissional em transição de carreira e estou buscando minha primeira oportunidade como analista de dados jr. 
-
-Tenho estudado constantemente e desenvolvendo meus próprios projetos para aprimorar minhas habilidades.
+🚀 Pós-graduanda em Ciência de Dados, com formação em Estatística e Empresa com ênfase em marketing pela Univesidad de Jaén (UJA) e Recursos Humanos pela UNIFIEO, 
+estou em transição de carreira em busca do meu primeiro "sim" na área de Ciência de Dados.
 
 🧩 Acesse meu portfólio online:
 
