@@ -7,9 +7,10 @@ estou em transição de carreira em busca do meu primeiro "sim" na área de Ciê
 
 ###📊 Estatísticas do GitHub
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gspatri&show_icons=true&theme=gruvbox)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gspatri&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gspatri&theme=radical)](https://github.com/gspatri/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gspatri&title_color=cc99ff&text_color=cc99ff&icon_color=cc99ff&bg_color=0d1117&cache_seconds=14400)](https://github.com/gspatri/github-readme-stats)
+
 
 ---
 
